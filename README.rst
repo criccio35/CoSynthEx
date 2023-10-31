@@ -65,7 +65,6 @@ Load the module as shown below::
 
   import CoSynthEx as cse
 
-Find a complete example and the online documentation `here <https://criccio35.github.io/kmerExtractor/>`_
-or in pdf `here <docs/cosynthex.pdf>`_.
+Find a complete example and the documentation `here <docs/cosynthex.pdf>`_.
 
 
