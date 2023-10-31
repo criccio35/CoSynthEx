@@ -65,5 +65,5 @@ Load the module as shown below::
 
   import CoSynthEx as cse
 
-Find a complete example and the documentation `here <docs_pdf/cosynthex material auxiliar.pdf>`_.
-Find a complete description `here <docs_pdf/cosynthex description.pdf>`_.
+Find a complete example and the documentation `here <docs_pdf/cosynthex_documentation_example.pdf>`_.
+Find a complete description `here <docs_pdf/cosynthex_description.pdf>`_.
