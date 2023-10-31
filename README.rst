@@ -1,7 +1,7 @@
 * Written by Camila Riccio, Camilo Rocha and Jorge Finke
 * Last update: 12/10/23 
 
-kmerExtractor
+CoSynthEx
 =============
 
 This is a Python3 implementation to o generate synthetic expression data conditioned on phenotypic traits and sample conditions, such as control or stress.
@@ -65,6 +65,5 @@ Load the module as shown below::
 
   import CoSynthEx as cse
 
-Find a complete example and the documentation `here <docs/cosynthex.pdf>`_.
-
-
+Find a complete example and the documentation `here <docs/cosynthex material auxiliar.pdf>`_.
+Find a complete description `here <docs/cosynthex description.pdf>`_.
